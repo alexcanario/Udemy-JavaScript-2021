@@ -93,6 +93,10 @@ StyleCopReport.xml
 *.svclog
 *.scc
 
+# Course files
+*.zip
+*.pdf
+
 # Chutzpah Test files
 _Chutzpah*
 
