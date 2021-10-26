@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Launch Chrome",
+            "url": "file://C:/labs/Udemy/Udemy-JavaScript-2021/2-Basics/index.html",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
